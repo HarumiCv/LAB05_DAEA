@@ -12,7 +12,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <!-- SCROLL PARA CAMPOS -->
+        <!-- CONTENIDO -->
         <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto">
             <StackPanel VerticalAlignment="Top">
                 <TextBlock Text="ID Cliente"/>
